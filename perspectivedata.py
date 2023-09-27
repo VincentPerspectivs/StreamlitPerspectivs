@@ -5,7 +5,7 @@ st.markdown("# Perspective Data")
 with st.container():
    image_col, text_col = st.columns((1,2))
    with image_col:
-      st.image("./images/vsw_site.png")
+      st.image("/home/ec2-user/Streamlit_Page/images/vsw_site.png")
    with text_col:
       st.markdown("## Senior consultancy in architecture, data and transformation")
 st.markdown("### Vincent Swiderski - who am I?")
