@@ -46,5 +46,5 @@ st.markdown("""
 """)
 st.markdown("### Contact")
 st.markdown("""
-Please feel free to reach me at vincent@perspectivedata.tech
+Please feel free to reach me at vincent@perspectivedata.tech or on [Linkedin](https://www.linkedin.com/in/vincent-swiderski-74106255/).
 """)
